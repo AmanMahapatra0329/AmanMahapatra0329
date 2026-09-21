@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
+I’m a Computer Science student interested in backend engineering and building reliable, scalable software.
 
-<!--
-**AmanMahapatra0329/AmanMahapatra0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy developing APIs, working with databases, and learning how real-world backend systems are designed and deployed.
 
-Here are some ideas to get you started:
+Currently, I’m focused on strengthening my backend fundamentals, exploring system design and distributed systems, and building projects that challenge me to learn beyond the basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+C Java JavaScript Python Vercel Render Django DjangoREST JWT Postgres SQLite Blender NumPy Pandas Matplotlib Git GitHub Docker Postman
+
+📊 GitHub Stats:
+
+
+
+
+
+
